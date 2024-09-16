@@ -28,6 +28,9 @@ body{
     margin-left: -1050px;
     padding: 30px;
 }
+body{
+  flex-wrap: wrap;
+}
 /* .dropdown{
     
 } */
@@ -373,7 +376,194 @@ margin-left: 100px;
 opacity: 0.7;
 font-size: 30px;
 }
-.pg3a{
+.pg3a2{
   color: black;
   font-size: 50px;
+  margin-top: 50px;
+}
+
+.pg3b2{
+  color: black;
+  margin-left: 50px;
+  opacity: 0.7;
+  font-size: 25px;
+  margin-top: 100px;
+  }
+  .pg31{
+    background-image: url(merchants_bg_hero_img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+  }
+  .pg3a2{
+    color: black;
+    font-size: 50px;
+  }
+  .texcol2{
+    margin-left: 590px;
+    margin-top: 300px;
+  }
+  .txtdiv{
+    margin-left: -800px;
+    margin-top: 200px;
+  }
+  
+
+  .inlinecard2{
+    margin-right: 300px;
+    margin-top: -950px;
+    height: 200px;
+  }
+
+  .boldtxt{
+    color: rgb(0,0,0);
+  }
+
+  .fainttxt{
+    rgb(179,179,181)
+  }
+  
+  .learnmore{
+    margin-right: -450px;
+    margin-top: 30px;
+    /* margin-bottom: ; */
+    margin-left: 300px;
+    border-radius: 30px;
+    /* color: ; */
+    height: 50px;
+    width: 150px;
+    
+  
+  }
+  .txtdiv{
+    margin-bottom: -  100px;
+  }
+
+  .signup{
+    color:rgb(250,226,215) ;
+    background-color: rgb(242,101,36);
+    height: 50px;
+    width: 300px;
+    border-radius: 30px;
+    margin-left: 500px;
+  }
+  .btndiv{
+    margin-left: 500px;
+  }
+  .boldtxt{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    display: block;
+  }
+  .fainttxt{
+    opacity: 0.7;
+    padding: 20px;
+   text-align: center;
+  
+  }
+  .pg1{
+    margin-top: 1700px;
+    
+    
+  }
+  .imgp{
+    margin-left: 250px;
+  }
+  .phone{
+    margin: 10px;
+    background-image: url(minimal_developers_bg.png);
+    height: 100vh;
+  }
+  .phoneimg{
+    margin-right: 100px;
+    width: 750px;
+    height: 700px;
+  }
+  .phonetxt {
+    margin-left: 800px;
+    margin-top: -1000px;
+  }
+  .download{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: black;
+  }
+  .downfaint{
+    opacity: 0.5;
+    /* gap: 50px; */
+  }
+  .text{
+    margin-left: 900px;
+    margin-top: -500px;
+  }
+  .gooplay{
+    margin-left: 850px;
+    margin-top: 30px;
+  }
+  .getpaid{
+    color: black;
+    background-image: url(minimal_developers_bg.png);
+    text-align: center;
+  }
+  .firsttxt{
+    font-size: 40px;
+    margin-top: 200px;
+    text-align: center;
+  }
+  .sectxt{
+    font-size: 30px;
+    font-weight: 100;
+      opacity: 0.8;
+      margin-top: 50px;
+  }
+  .code{
+    /* margin-bottom: -150px; */
+/* padding: 40px; */
+    justify-content: center;
+    margin-right: 150px;
+  }
+  .docu{
+    color:rgb(250,226,215) ;
+    background-color: rgb(242,101,36);
+    height: 50px;
+    width: 300px;
+    border-radius: 30px;
+    margin-left: 300px;
+    margin-top: -250px;
+  }
+  .fistt{
+    font-size: 100px;
+    margin-top: 200px;
+    text-align: center;
+    color: white;
+  }
+.orange{
+  color: white;
+   background-image:url(minimal_newsletter_bg_img.svg) ;
+   margin-top: 150px;
+
+    text-align: center;
+}
+.lastinp{
+  width: 600px;
+  height: 50px;
+  /* color: transparent; */
+  border-radius: 30px;
+  background-color: transparent;
+}
+.lastinp::placeholder{
+  color: white;
+}
+
+.cover{
+  padding: 100px;
+}
+.suscribe{
+  width: 300px;
+  height: 50px;
+  border-radius: 20px;
+  background-color: rgb(242,194,180);
+  color: rgb(218,86,46);
 }
